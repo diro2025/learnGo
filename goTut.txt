@@ -1,0 +1,29 @@
+Alex Mux - learn go fast
+github.com/avukadin/go_tutorials
+-------------------
+1 - statically typed language
+var myString = "my string"
+2 - strongly typed language
+3 - Go is compiled
+4- fast compile time
+5 - built in concurrency
+6 - simplicity
+
+
+var n int = 0
+for i:= 0; i < 100000; i++{
+    n += 1
+}
+
+>go mod init github.com/diro2025/learnGo
+------
+Package 1
+folder-1 => file1.go, file2.go
+
+Module 1 => Package1, Package2
+
+----
+#to compile/run code
+>go run main.go
+or
+>go build
