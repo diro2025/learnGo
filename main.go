@@ -13,5 +13,5 @@ func main() {
 	fmt.Println(floatNum)
 
 	//print
-	//fmt.Println("Hello world")
+	fmt.Println("Hello world")
 }
